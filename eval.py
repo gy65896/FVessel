@@ -14,7 +14,7 @@ def detection(gt_file, ts_file):
     return mm.io.render_summary(summary,namemap=mm.io.motchallenge_metric_names)
     
 def tracking(gt_file, ts_file):
-    metrics = ['mota','idf1', 'idp', 'idr']
+    metrics = ['mota','motp','idf1', 'idp', 'idr']
     gt=mm.io.loadtxt(gt_file, fmt="mot15-2D")
     ts=mm.io.loadtxt(ts_file, fmt="mot15-2D")
     name=os.path.splitext(os.path.basename(ts_file))[0]
@@ -35,8 +35,24 @@ def fusion(gt_file, ts_file):
 
 
 if '__main__':
-    # detection
-    gt = './Video-01_gt_fusion.txt'
-    ts = './Video-01_re_fusion.txt'
-    result = fusion(gt, ts)
+    Type = 'fusion' # 'detection'|'tracking'|'fusion'
+    
+    if Type == 'detection':
+        # 01 detection
+        gt = './sample/Video-01_gt_detection.txt'
+        ts = './sample/Video-01_re_detection.txt'
+        result = detection(gt, ts)
+        
+    elif Type == 'tracking':
+        # 02 tracking
+        gt = './sample/Video-01_gt_tracking.txt'
+        ts = './sample/Video-01_re_tracking.txt'
+        result = tracking(gt, ts)
+        
+    elif Type == 'fusion':
+        # 03 fusion
+        gt = './sample/Video-01_gt_fusion.txt'
+        ts = './sample/Video-01_re_fusion.txt'
+        result = fusion(gt, ts)
+    
     print(result)
