@@ -5,8 +5,9 @@
 ## 目录 Catalog
 1. [数据集介绍 Dataset Introduction](#Introduction)
 2. [细节 Details](#Details)
-3. [评估 Evaluation](#Evaluation)
-4. [引用 Citation](#Citation)
+3. [数据集下载 Dataset Download](#Download)
+4. [评估 Evaluation](#Evaluation)
+5. [引用 Citation](#Citation)
 
 
 ## 目录
@@ -25,7 +26,12 @@
 
 ## Details
 
+## Download
+训练所需的权值可在百度网盘中下载。  
+链接: https://pan.baidu.com/s/1jcheiu2jArDzmHX0RhK6Fg     
+提取码: MIPC    
 
+## Evaluation
 
 ## Citation
 ```
