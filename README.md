@@ -22,7 +22,7 @@ FVessel dataset consists of two parts:
 * __02_Image+xml__
 
 ### 01_Video+AIS
-
+'01_Video+AIS' contains 26 videos and corresponding AIS data
 
 ## Download
 FVessel数据集可在百度网盘中下载。         
