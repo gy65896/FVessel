@@ -96,9 +96,15 @@ Each video data contains the following files:
     
     __Video-02_gt_detection.txt__
     
+    ```<frame>, <0>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>```
+    
     __Video-02_gt_tracking.txt__
     
+    ```<frame>, <id>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>```
+    
     __Video-02_gt_fusion.txt__
+    
+    ```<frame>, <mmsi>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>```
 
 ### 02_Image+xml
 
