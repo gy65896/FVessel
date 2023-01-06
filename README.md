@@ -71,7 +71,7 @@ Each video data contains the following files:
   __...__
   
   
-(Each csv file contains the AIS data received within ten minutes, and only the most recent data is kept.)
+    (Each csv file contains the AIS data received within ten minutes, and only the most recent data is kept.)
  * __Video__
 
     __2022_05_10_19_21_05_19_31_10_b.mp4__  
