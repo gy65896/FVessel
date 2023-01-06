@@ -75,8 +75,8 @@ Each video data contains the following files
 
     __2022_05_10_19_21_05_19_31_10_b.mp4__  
     
-    Starting time:2022_05_10_19_21_05
-    End time:   2022_05_10_19_31_10
+    Starting time: 2022_05_10_19_21_05
+    End time: 2022_05_10_19_31_10
     Type: b/r (bridge/riverside)
 
 (Each csv file contains the AIS data received within ten minutes, and only the most recent data is kept.)
