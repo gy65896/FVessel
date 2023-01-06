@@ -58,7 +58,7 @@ Each video data contains the following files
 
   __2022_05_10_19_21_04.csv__
 
-  |序号Number|MMSI|经度Lon|纬度Lat|航速Speed|航向Course|船首向Heading|类型Type|时间戳Timestamp|
+  |序号<br>Number|MMSI|经度<br>Lon|纬度<br>Lat|航速<br>Speed|航向<br>Course|船首向<br>Heading|类型<br>Type|时间戳<br>Timestamp|
   | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
   0|100000000|114.325327|30.60166 |0  |293.6|511|18|1652181559844
   1|130000000|114.302683|30.58059 |6.8|33.6 |33 |18|1652181659157
@@ -81,7 +81,7 @@ Each video data contains the following files
    
   * __camera parameters__
 
-  |经度Lon|纬度Lat|Horizontal Orientation|Vertical Orientation|Camera Height from Water Surface|Horizontal Field of View|Vertical Field of View|
+  |经度<br>Lon|纬度<br>Lat|水平朝向<br>Horizontal Orientation|俯仰角<br>Vertical Orientation|相机高度<br>Camera Height|水平视场角<br>Horizontal FoV|垂直视场角<br>Vertical FoV|
   | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
   114.32583333333334|30.60138888888889|7|-1|20| 55 | 30.94
 
