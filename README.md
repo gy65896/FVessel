@@ -22,7 +22,12 @@ FVessel dataset consists of two parts:
 * __02_Image+xml__
 
 ### 01_Video+AIS
-`01_Video+AIS` contains 26 videos and corresponding AIS data
+`01_Video+AIS` contains 26 videos and corresponding AIS data to evaluate the performance of the data fusion algorithm.
+| 视频名称 | 类型 | 天气 | 船舶遮挡次数 | 船舶总数 | AIS船舶总数 |
+| :----- | :----- | :----- | :----- | :----- | :----- |
+video | 10m07s |  Bridge|Low-light|2|5|4
+
+
 
 ## Download
 FVessel数据集可在百度网盘中下载。         
