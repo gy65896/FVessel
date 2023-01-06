@@ -9,19 +9,6 @@
 4. [评估 Evaluation](#Evaluation)
 5. [引用 Citation](#Citation)
 
-
-## 目录
-1. [仓库更新 Top News](#仓库更新)
-2. [相关仓库 Related code](#相关仓库)
-3. [性能情况 Performance](#性能情况)
-4. [实现的内容 Achievement](#实现的内容)
-5. [所需环境 Environment](#所需环境)
-6. [文件下载 Download](#文件下载)
-7. [训练步骤 How2train](#训练步骤)
-8. [预测步骤 How2predict](#预测步骤)
-9. [评估步骤 How2eval](#评估步骤)
-10. [参考资料 Reference](#Reference)
-
 ## Introduction
 
 ## Details
