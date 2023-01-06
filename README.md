@@ -58,7 +58,7 @@ Each video data contains the following files
 
   __2022_05_10_19_21_04.csv__
 
-  |number|mmsi|lon|lat|speed|course|heading|type|timestamp|
+  |序号Number|MMSI|经度Lon|纬度Lat|航速Speed|航向Course|船首向Heading|类型Type|时间戳Timestamp|
   | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
   0|100000000|114.325327|30.60166 |0  |293.6|511|18|1652181559844
   1|130000000|114.302683|30.58059 |6.8|33.6 |33 |18|1652181659157
@@ -80,7 +80,9 @@ Each video data contains the following files
     Type: b/r (bridge/riverside)
    
   * __camera parameters__
-
+  |经度Lon|纬度Lat|Horizontal Orientation|Vertical Orientation|Camera Height from Water Surface|Horizontal Field of View|Vertical Field of View|
+  | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+  114.32583333333334|30.60138888888889|7|-1|20| 55 | 30.94
 
 * __02_Image+xml__
 
