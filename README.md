@@ -92,6 +92,8 @@ Each video data contains the following files:
     
     __Video-02_gt.mp4__
     
+    Video containing ground truth, processed only once per second.
+    
     __Video-02_gt_detection.txt__
     
     __Video-02_gt_tracking.txt__
