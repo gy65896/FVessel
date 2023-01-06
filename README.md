@@ -88,15 +88,15 @@ Each video data contains the following files:
     | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
     114.32583|30.60139|7|-1|20| 55 | 30.94
 
-* __gt__
+* __GT (Ground Truth)__
     
-    Video-02_gt.mp4
+    __Video-02_gt.mp4__
     
-    Video-02_gt_detection.txt
+    __Video-02_gt_detection.txt__
     
-    Video-02_gt_tracking.txt
+    __Video-02_gt_tracking.txt__
     
-    Video-02_gt_fusion.txt
+    __Video-02_gt_fusion.txt__
 
 ### 02_Image+xml
 
