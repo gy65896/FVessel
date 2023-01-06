@@ -53,7 +53,7 @@ video-25|24m05s|Riverside|Sunny    |4|8|8
 video-26|07m26s|Riverside|Sunny    |0|5|5
 
 Each video data contains the following files:
-* __AIS__
+* __(a) AIS__
 
 
   __2022_05_10_19_21_04.csv__
@@ -72,7 +72,7 @@ Each video data contains the following files:
   
   
     (Each csv file contains the AIS data received within ten minutes, and only the most recent data is kept.)
- * __Video__
+ * __(b) Video__
 
     __2022_05_10_19_21_05_19_31_10_b.mp4__  
     
@@ -80,7 +80,7 @@ Each video data contains the following files:
     End time: 2022_05_10_19_31_10
     Type: b/r (bridge/riverside)
    
-  * __Camera Parameters__
+  * __(c) Camera Parameters__
   
     __camera_para.txt__
 
@@ -88,7 +88,7 @@ Each video data contains the following files:
     | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
     114.32583|30.60139|7|-1|20| 55 | 30.94
 
-* __GT (Ground Truth: adopt the multi-object tracking MOT format)__
+* __(d) GT (Ground Truth: adopt the multi-object tracking MOT format)__
     
     __Video-02_gt.mp4__
     
