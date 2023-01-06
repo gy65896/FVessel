@@ -14,9 +14,10 @@
 ## Details
 
 ## Download
-训练所需的权值可在百度网盘中下载。  
-链接: https://pan.baidu.com/s/1jcheiu2jArDzmHX0RhK6Fg     
-提取码: MIPC    
+FVessel数据集可在百度网盘中下载。
+FVessel dataset can be downloaded in Baidu Netdisk.
+链接 Link: https://pan.baidu.com/s/1jcheiu2jArDzmHX0RhK6Fg     
+提取码 Extraction code: MIPC    
 
 ## Evaluation
 
