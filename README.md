@@ -52,7 +52,7 @@ video-24|08m39s|Riverside|Sunny    |2|3|3
 video-25|24m05s|Riverside|Sunny    |4|8|8
 video-26|07m26s|Riverside|Sunny    |0|5|5
 
-Each video data contains the following files
+Each video data contains the following files:
 * __AIS__
 
 
