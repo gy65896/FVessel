@@ -23,7 +23,7 @@ FVessel dataset consists of two parts:
 
 ### 01_Video+AIS
 `01_Video+AIS` contains 26 videos and corresponding AIS data to evaluate the performance of the data fusion algorithm.
-|视频名称    Video|视频时长 \n Video Length| 类型 Type| 天气 Weather| 船舶遮挡次数 Times of Occlusions| 船舶总数 Total Number of Vessels| AIS船舶总数 Number of Vessels with AIS|
+|视频名称    Video|视频时长 \ Video Length| 类型 Type| 天气 Weather| 船舶遮挡次数 Times of Occlusions| 船舶总数 Total Number of Vessels| AIS船舶总数 Number of Vessels with AIS|
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
 video | 10m07s |  Bridge|Low-light|2|5|4
 
