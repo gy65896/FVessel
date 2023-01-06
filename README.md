@@ -123,7 +123,7 @@ FVessel数据集可在百度网盘中下载。
 
 ## Evaluation
 
-* Install [motmetrics](https://github.com/cheind/py-motmetrics)
+* Install [motmetrics](https://github.com/cheind/py-motmetrics).
 
 * Copy the two files from the `motmetrics` of this project to the installed motmetrics folder.
 
@@ -131,7 +131,7 @@ FVessel数据集可在百度网盘中下载。
 
 * Choose the type of evaluation `detection`, `tracking`, and `fusion`.
 
-* Run `eval.py`
+* Run `eval.py`.
 
 ## Citation
 ```
