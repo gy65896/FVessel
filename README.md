@@ -56,7 +56,7 @@ Each video data contains the following files
 
 * __ais__   
 __2022_05_10_19_21_04.csv__  
-| |mmsi|lon|lat|speed|course|heading|type|timestamp|
+|Number|mmsi|lon|lat|speed|course|heading|type|timestamp|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 0|100000000|114.325327|30.60166 |0  |293.6|511|18|1.65218E+12
 1|130000000|114.302683|30.58059 |6.8|33.6 |33 |18|1.65218E+12
