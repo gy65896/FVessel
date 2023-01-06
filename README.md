@@ -18,8 +18,12 @@ FVessel benchmark dataset is used to evaluate the reliability of AIS and video d
 ## Details
 
 FVessel dataset consists of two parts:
-* __01_Video+AIS__: evaluate data fusion algorithms
-* __02_Image+xml__: train the object detection network
+* __01_Video+AIS__
+* __02_Image+xml__
+
+### 01_Video+AIS
+
+
 ## Download
 FVessel数据集可在百度网盘中下载。         
 链接: https://pan.baidu.com/s/1jcheiu2jArDzmHX0RhK6Fg     
