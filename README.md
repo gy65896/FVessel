@@ -88,7 +88,7 @@ Each video data contains the following files:
     | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
     114.32583|30.60139|7|-1|20| 55 | 30.94
 
-* __GT (Ground Truth)__
+* __GT (Ground Truth: adopt the multi-object tracking MOT format)__
     
     __Video-02_gt.mp4__
     
