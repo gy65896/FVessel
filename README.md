@@ -4,7 +4,7 @@
 
 ## 目录 Catalog
 1. [数据集介绍 Dataset Introduction](#Introduction)
-2. [细节 Details](#Details)
+2. [数据集细节 Dataset Details](#Details)
 3. [数据集下载 Dataset Download](#Download)
 4. [评估 Evaluation](#Evaluation)
 5. [引用 Citation](#Citation)
