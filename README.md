@@ -92,7 +92,7 @@ Each video data contains the following files
 
 ### 02_Image+xml
 
-`02_Image+xml` contains 7625 maritime images and the corresponding xml files for target detection network training. This dataset has only one category, i.e., `vessel`.
+`02_Image+xml` contains 7625 maritime images and the corresponding xml files for target detection network training. This dataset has only one category `vessel`.
 
 ## Download
 FVessel数据集可在百度网盘中下载。         
