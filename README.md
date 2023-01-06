@@ -54,8 +54,7 @@ video-26|07m26s|Riverside|Sunny    |0|5|5
 
 Each video data contains the following files
 * __ais__   
-__2022_05_10_19_21_04.csv__  
-
+__2022_05_10_19_21_04.csv__
 
 |Number|mmsi|lon|lat|speed|course|heading|type|timestamp|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
