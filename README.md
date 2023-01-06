@@ -80,7 +80,7 @@ Each video data contains the following files
     End time: 2022_05_10_19_31_10
     Type: b/r (bridge/riverside)
    
-  * __camera parameters__
+  * __Camera Parameters__
   
     __camera_para.txt__
 
