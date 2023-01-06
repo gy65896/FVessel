@@ -52,8 +52,14 @@ video-24|08m39s|Riverside|Sunny    |2|3|3
 video-25|24m05s|Riverside|Sunny    |4|8|8
 video-26|07m26s|Riverside|Sunny    |0|5|5
 
-![image](https://user-images.githubusercontent.com/48637474/210927405-16df4314-6e8c-4e0b-9eb9-c0e6ef4fac0f.png)
+Each video data contains the following files
 
+* __ais__
+__2022_05_10_19_21_04.csv__
+__2022_05_10_19_21_05.csv__
+__2022_05_10_19_21_06.csv__
+__...__
+* __02_Image+xml__
 
 
 
