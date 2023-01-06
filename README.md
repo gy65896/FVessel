@@ -15,7 +15,7 @@
 
 ## Download
 FVessel数据集可在百度网盘中下载。         
-链  接: https://pan.baidu.com/s/1jcheiu2jArDzmHX0RhK6Fg     
+链    接: https://pan.baidu.com/s/1jcheiu2jArDzmHX0RhK6Fg     
 提取码: MIPC    
 
 ## Evaluation
