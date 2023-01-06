@@ -89,6 +89,14 @@ Each video data contains the following files:
     114.32583|30.60139|7|-1|20| 55 | 30.94
 
 * __gt__
+    
+    Video-02_gt.mp4
+    
+    Video-02_gt_detection.txt
+    
+    Video-02_gt_tracking.txt
+    
+    Video-02_gt_fusion.txt
 
 ### 02_Image+xml
 
