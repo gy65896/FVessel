@@ -118,9 +118,10 @@ Each video data contains the following files:
 `02_Image+xml` contains 7625 maritime images and the corresponding xml files for target detection network training. This dataset has only one class `vessel`.
 
 ## Download
-FVessel数据集可在百度网盘中下载。         
-链接: https://pan.baidu.com/s/1jcheiu2jArDzmHX0RhK6Fg     
-提取码: MIPC    
+We only public four videos of `01_Video+AIS` in the FVessel dataset, please contact us if you need more data.      
+链接：https://pan.baidu.com/s/1XsAKYynboPdTx_VJdchCww 
+提取码：dfdz 
+
 
 ## Evaluation
 
@@ -143,4 +144,4 @@ FVessel数据集可在百度网盘中下载。
   year={2023}
 }
 ```
-#### If you have any questions, please get in touch with me (yuguo@whut.edu.cn).
+#### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
