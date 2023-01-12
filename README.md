@@ -138,12 +138,5 @@ We only publish four video and AIS data from `01_Video+AIS`. If you need more da
 * Run `eval.py`.
 
 ## Citation
-```
-@inproceedings{Guo2023video,
-  title={},
-  author={},
-  booktitle={},
-  year={2023}
-}
-```
+
 #### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
