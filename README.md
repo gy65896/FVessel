@@ -88,6 +88,7 @@ Each video data contains the following files:
     |经度<br>Lon|纬度<br>Lat|水平朝向<br>Horizontal Orientation|俯仰角<br>Vertical Orientation|相机高度<br>Camera Height|水平视场角<br>Horizontal FoV|垂直视场角<br>Vertical FoV|fx|fy|u0|v0|
     | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
     114.32583|30.60139|7|-1|20| 55 | 30.94 | 2391.26 | 2446.89 | 1305.04 | 855.214 |
+    
     fx, fy, u0, and v0 are parameters in the internal matrix of the camera.
 * __(d) GT (Ground Truth: adopt the multi-object tracking MOT format)__
     
