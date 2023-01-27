@@ -120,7 +120,7 @@ Each video data contains the following files:
 `02_Image+xml` contains 7625 maritime images and the corresponding xml files for target detection network training. This dataset has only one class `vessel`.
 
 ## Download
-We only publish four video and AIS data from `01_Video+AIS`. If you need more datasets, please contact us.     
+We only publish four videos and AIS data from `01_Video+AIS`. If you need more datasets, please contact us.     
 
 链接：https://pan.baidu.com/s/1yeY1Igund8gjTnqZsyqI_A 
 
