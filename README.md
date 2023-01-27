@@ -18,7 +18,7 @@ The FVessel benchmark dataset is used to evaluate the reliability of AIS and vid
 
 ## Details
 
-FVessel dataset consists of two parts:
+The FVessel dataset consists of two parts:
 * __01_Video+AIS__
 * __02_Image+xml__
 
