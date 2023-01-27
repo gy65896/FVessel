@@ -122,9 +122,9 @@ Each video data contains the following files:
 ## Download
 We only publish four videos and AIS data from `01_Video+AIS`. If you need more datasets, please contact us.     
 
-链接：https://pan.baidu.com/s/1yeY1Igund8gjTnqZsyqI_A 
+Link：https://pan.baidu.com/s/1yeY1Igund8gjTnqZsyqI_A 
 
-提取码：oinv 
+Extraction code：oinv 
 
 
 
