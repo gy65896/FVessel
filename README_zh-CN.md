@@ -1,6 +1,7 @@
 ## FVessel: 用于船舶检测、跟踪、数据融合的基准数据集
-[English](README.md) | 简体中文
+
 ---
+[English](README.md) | 简体中文
 
 ## 目录 Catalog
 1. [数据集介绍](#介绍)
@@ -10,56 +11,56 @@
 5. [引用](#引用)
 
 ## 介绍
-FVessel基准数据集用于评估AIS和视频数据融合算法的可靠性，主要包含海康威视DS-2DC4423IW-D球型摄像机和赛扬AIS9000-08 B类AIS接收机在武汉长江段拍摄的26个视频和相应的AIS数据。 由于 AIS 数据中包含的海上移动服务身份 (MMSI) ，我们将其替换为随机数。 如图 1 所示，这些视频是在许多位置（例如桥梁区域和河边）和各种天气条件（例如晴天、多云和弱光）下拍摄的。
+FVessel基准数据集用于评估AIS和视频数据融合算法的可靠性，主要包含海康威视DS-2DC4423IW-D球型摄像机和赛扬AIS9000-08 B类AIS接收机在武汉长江段拍摄的26个视频和相应的AIS数据。为了保护隐私，在我们的数据集中每艘船的 MMSI 已替换为随机数。图 1 展了FVessel数据集的部分样本。
 
 ![Figure04_FVessel](https://user-images.githubusercontent.com/48637474/210925024-15dcbcbe-717b-47b6-ad4b-377d71141380.jpg)
-**Figure 1. Some samples of the FVessel dataset, which contains massive images and videos captured on the bridge region and riverside under the sunny, cloudy, and low-light conditions.**
+**图1. FVessel数据集的部分样本，其中包含在晴天、多云和弱光条件下在桥区和江边采集的大量图像和视频。**
 
 ## 细节
 
-FVessel dataset consists of two parts:
+FVessel 数据集包含两部分:
 * __01_Video+AIS__
 * __02_Image+xml__
 
 ### 01_Video+AIS
-`01_Video+AIS` contains 26 videos and the corresponding AIS data to evaluate the performance of the data fusion algorithm.
+`01_Video+AIS` 包含26个视频和对应的AIS数据以评估数据融合算法的性能。
 
-|视频名称 <br>   Video|视频时长 <br> Video Length| 类型 <br> Type| 天气 <br> Weather| 船舶遮挡次数 <br> Times of Occlusions| 船舶总数 <br> Total Number of Vessels| AIS船舶总数 <br> Number of Vessels with AIS|
+|视频名称|视频时长|类型|天气|船舶遮挡次数|船舶总数|AIS船舶总数|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-video-01|10m07s|Bridge   |Low-light|2|5|4
-video-02|19m52s|Bridge   |Sunny    |6|7|6
-video-03|19m14s|Riverside|Sunny    |6|5|5
-video-04|06m10s|Riverside|Sunny    |0|1|1
-video-05|15m01s|Riverside|Sunny    |2|5|5
-video-06|12m49s|Riverside|Sunny    |2|4|4
-video-07|03m38s|Riverside|Sunny    |1|2|2
-video-08|16m05s|Riverside|Sunny    |3|6|5
-video-09|05m25s|Riverside|Sunny    |0|1|1
-video-10|11m17s|Bridge   |Cloudy   |2|3|1
-video-11|05m18s|Riverside|Sunny    |1|3|3
-video-12|07m19s|Riverside|Sunny    |1|4|4
-video-13|12m58s|Riverside|Sunny    |5|6|6
-video-14|03m58s|Riverside|Sunny    |3|4|4
-video-15|10m46s|Riverside|Sunny    |0|4|4
-video-16|05m05s|Riverside|Sunny    |0|1|1
-video-17|08m08s|Riverside|Sunny	   |1|2|2
-video-18|23m57s|Riverside|Sunny    |10|10|6
-video-19|11m28s|Riverside|Low-light|0|2|2
-video-20|14m10s|Riverside|Low-light|0|3|3
-video-21|24m01s|Riverside|Low-light|4|7|6
-video-22|02m40s|Riverside|Low-light|0|2|1
-video-23|19m24s|Riverside|Sunny    |2|4|4
-video-24|08m39s|Riverside|Sunny    |2|3|3
-video-25|24m05s|Riverside|Sunny    |4|8|8
-video-26|07m26s|Riverside|Sunny    |0|5|5
+video-01|10m07s|桥区|弱光|2|5|4
+video-02|19m52s|桥区|晴天|6|7|6
+video-03|19m14s|江边|晴天|6|5|5
+video-04|06m10s|江边|晴天|0|1|1
+video-05|15m01s|江边|晴天|2|5|5
+video-06|12m49s|江边|晴天|2|4|4
+video-07|03m38s|江边|晴天|1|2|2
+video-08|16m05s|江边|晴天|3|6|5
+video-09|05m25s|江边|晴天|0|1|1
+video-10|11m17s|桥区|多云|2|3|1
+video-11|05m18s|江边|晴天|1|3|3
+video-12|07m19s|江边|晴天|1|4|4
+video-13|12m58s|江边|晴天|5|6|6
+video-14|03m58s|江边|晴天|3|4|4
+video-15|10m46s|江边|晴天|0|4|4
+video-16|05m05s|江边|晴天|0|1|1
+video-17|08m08s|江边|晴天|1|2|2
+video-18|23m57s|江边|晴天|10|10|6
+video-19|11m28s|江边|弱光|0|2|2
+video-20|14m10s|江边|弱光|0|3|3
+video-21|24m01s|江边|弱光|4|7|6
+video-22|02m40s|江边|弱光|0|2|1
+video-23|19m24s|江边|晴天|2|4|4
+video-24|08m39s|江边|晴天|2|3|3
+video-25|24m05s|江边|晴天|4|8|8
+video-26|07m26s|江边|晴天|0|5|5
 
-Each video data contains the following files:
-* __(a) AIS__
+每一个视频数据包含如下文件:
+* __(a) AIS文件__
 
 
   __2022_05_10_19_21_04.csv__
 
-  |序号<br>Number|MMSI|经度<br>Lon|纬度<br>Lat|航速<br>Speed|航向<br>Course|船首向<br>Heading|类型<br>Type|时间戳<br>Timestamp|
+  |序号|MMSI|经度|纬度|航速|航向|船首向|类型|时间戳|
   | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
   0|100000000|114.325327|30.60166 |0  |293.6|511|18|1652181559844
   1|130000000|114.302683|30.58059 |6.8|33.6 |33 |18|1652181659157
@@ -72,54 +73,54 @@ Each video data contains the following files:
   __...__
   
   
-    (Each csv file contains the AIS data received within ten minutes, and only the most recent data is kept.)
- * __(b) Video__
+    (每个csv文件包含十分钟内的AIS数据并且仅保存每艘船舶最近时刻的数据。)
+ * __(b) 视频__
 
     __2022_05_10_19_21_05_19_31_10_b.mp4__  
     
-    Starting time: 2022_05_10_19_21_05
-    End time: 2022_05_10_19_31_10
-    Type: b/r (bridge/riverside)
+    开始时间: 2022_05_10_19_21_05
+    结束时间: 2022_05_10_19_31_10
+    类型: b/r (桥区/江边)
    
-  * __(c) Camera Parameters__
+  * __(c) 相机参数__
   
     __camera_para.txt__
 
-    |经度<br>Lon|纬度<br>Lat|水平朝向<br>Horizontal Orientation|俯仰角<br>Vertical Orientation|相机高度<br>Camera Height|水平视场角<br>Horizontal FoV|垂直视场角<br>Vertical FoV|fx|fy|u0|v0|
+    |经度|纬度|水平朝向|俯仰角|相机高度|水平视场角|垂直视场角|fx|fy|u0|v0|
     | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
     114.32583|30.60139|7|-1|20| 55 | 30.94 | 2391.26 | 2446.89 | 1305.04 | 855.214 |
     
-    fx, fy, u0, and v0 are parameters in the internal matrix of the camera.
-* __(d) GT (Ground Truth: adopt the multi-object tracking MOT format)__
+    fx, fy, u0, 和 v0 是相机内参矩阵。
+* __(d) GT (真实情况: 采用多目标跟踪MOT格式)__
     
     __Video-02_gt.mp4__
     
-    Video containing ground truth, processed only once per second.
+    包含真实情况的视频，每秒仅一次。
     
     __Video-02_gt_detection.txt__
     
     ```
-    <second>, <0>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>
+    <秒>, <0>, <边界框_左>, <边界框_上>, <边界框_宽度>, <边界框_高度>, <置信度>, <x>, <y>, <z>
     ```
     
     __Video-02_gt_tracking.txt__
     
     ```
-    <second>, <id>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>
+    <秒>, <id号>, <边界框_左>, <边界框_上>, <边界框_宽度>, <边界框_高度>, <置信度>, <x>, <y>, <z>
     ```
     
     __Video-02_gt_fusion.txt__
     
     ```
-    <second>, <mmsi>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>
+    <秒>, <mmsi>, <边界框_左>, <边界框_上>, <边界框_宽度>, <边界框_高度>, <置信度>, <x>, <y>, <z>
     ```
 
 ### 02_Image+xml
 
-`02_Image+xml` contains 7625 maritime images and the corresponding xml files for target detection network training. This dataset has only one class `vessel`.
+`02_Image+xml` 包含7625张海事图像以及对应的用于目标检测网络训练的xml文件，该数据集只有一类``vessel''。
 
 ## 下载
-We only publish four video and AIS data from `01_Video+AIS`. If you need more datasets, please contact us.     
+我们只发布来自`01_Video+AIS`的四个视频和AIS数据。 如果您需要更多数据集，请联系我们。   
 
 链接：https://pan.baidu.com/s/1yeY1Igund8gjTnqZsyqI_A 
 
@@ -129,16 +130,16 @@ We only publish four video and AIS data from `01_Video+AIS`. If you need more da
 
 ## 评估
 
-* Install [motmetrics](https://github.com/cheind/py-motmetrics).
+* 安装 [motmetrics](https://github.com/cheind/py-motmetrics)；
 
-* Copy the two files from the `motmetrics` of this project to the installed motmetrics folder.
+* 将此项目的`motmetrics`中的两个文件复制到已安装的motmetrics文件夹中；
 
-* Save the test files to the `sample` folder.
+* 将测试文件保存到`sample`文件夹；
 
-* Choose the type of evaluation `detection`, `tracking`, and `fusion`.
+* 选择评估类型 `detection`, `tracking`, 和 `fusion`；
 
-* Run `eval.py`.
+* 运行 `eval.py`。
 
 ## 引用
 
-#### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
+#### 如果您有更多问题，请联系我们 (yuguo@whut.edu.cn & wenliu@whut.edu.cn)。
