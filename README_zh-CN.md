@@ -10,7 +10,7 @@
 5. [引用](#引用)
 
 ## 介绍
-FVessel benchmark dataset is used to evaluate the reliability of AIS and video data fusion algorithms, which mainly contains 26 videos and the corresponding AIS data captured by HIKVISION DS-2DC4423IW-D dome camera and Saiyang AIS9000-08 Class-B AIS receiver on the Wuhan Segment of the Yangtze River. Since the Maritime Mobile Service Identity (MMSI) containing in the AIS data reveals the vessel identity, we replaced it with a random number. As shown in Figure 1, these videos were captured under many locations (e.g., bridge region and riverside) and various weather conditions (e.g., sunny, cloudy, and low-light).
+FVessel基准数据集用于评估AIS和视频数据融合算法的可靠性，主要包含海康威视DS-2DC4423IW-D球型摄像机和赛扬AIS9000-08 B类AIS接收机在武汉长江段拍摄的26个视频和相应的AIS数据。 由于 AIS 数据中包含的海上移动服务身份 (MMSI) ，我们将其替换为随机数。 如图 1 所示，这些视频是在许多位置（例如桥梁区域和河边）和各种天气条件（例如晴天、多云和弱光）下拍摄的。
 
 ![Figure04_FVessel](https://user-images.githubusercontent.com/48637474/210925024-15dcbcbe-717b-47b6-ad4b-377d71141380.jpg)
 **Figure 1. Some samples of the FVessel dataset, which contains massive images and videos captured on the bridge region and riverside under the sunny, cloudy, and low-light conditions.**
