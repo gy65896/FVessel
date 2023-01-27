@@ -11,19 +11,19 @@
 5. [引用](#引用)
 
 ## 介绍
-FVessel基准数据集用于评估AIS和视频数据融合算法的可靠性，主要包含海康威视DS-2DC4423IW-D球型摄像机和赛扬AIS9000-08 B类AIS接收机在武汉长江段拍摄的26个视频和相应的AIS数据。为了保护隐私，在我们的数据集中每艘船的 MMSI 已替换为随机数。图 1 展了FVessel数据集的部分样本。
+FVessel基准数据集用于评估AIS和视频数据融合算法的可靠性，主要包含海康威视DS-2DC4423IW-D球型摄像机和赛扬AIS9000-08 B类AIS接收机在武汉长江段拍摄的26个视频和相应的AIS数据。为了保护隐私，在我们的数据集中每艘船的 MMSI 已替换为随机数。图1展了FVessel数据集的部分样本。
 
 ![Figure04_FVessel](https://user-images.githubusercontent.com/48637474/210925024-15dcbcbe-717b-47b6-ad4b-377d71141380.jpg)
 **图1. FVessel数据集的部分样本，其中包含在晴天、多云和弱光条件下在桥区和江边采集的大量图像和视频。**
 
 ## 细节
 
-FVessel 数据集包含两部分:
+FVessel数据集包含两部分:
 * __01_Video+AIS__
 * __02_Image+xml__
 
 ### 01_Video+AIS
-`01_Video+AIS` 包含26个视频和对应的AIS数据以评估数据融合算法的性能。
+`01_Video+AIS`包含26个视频和对应的AIS数据以评估数据融合算法的性能。
 
 |视频名称|视频时长|类型|天气|船舶遮挡次数|船舶总数|AIS船舶总数|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -90,8 +90,8 @@ video-26|07m26s|江边|晴天|0|5|5
     | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
     114.32583|30.60139|7|-1|20| 55 | 30.94 | 2391.26 | 2446.89 | 1305.04 | 855.214 |
     
-    fx, fy, u0, 和 v0 是相机内参矩阵。
-* __(d) GT (真实情况: 采用多目标跟踪MOT格式)__
+    fx, fy, u0, 和v0是相机内参矩阵。
+* __(d) GT (真实情况：采用多目标跟踪MOT格式)__
     
     __Video-02_gt.mp4__
     
@@ -117,10 +117,10 @@ video-26|07m26s|江边|晴天|0|5|5
 
 ### 02_Image+xml
 
-`02_Image+xml` 包含7625张海事图像以及对应的用于目标检测网络训练的xml文件，该数据集只有一类"vessel"。
+`02_Image+xml`包含7625张海事图像以及对应的用于目标检测网络训练的xml文件，该数据集只有一类"vessel"。
 
 ## 下载
-我们只发布来自`01_Video+AIS`的四个视频和AIS数据。 如果您需要更多数据集，请联系我们。   
+我们只发布来自`01_Video+AIS`的四个视频和AIS数据。如果您需要更多数据集，请联系我们。   
 
 链接：https://pan.baidu.com/s/1yeY1Igund8gjTnqZsyqI_A 
 
@@ -130,16 +130,16 @@ video-26|07m26s|江边|晴天|0|5|5
 
 ## 评估
 
-* 安装 [motmetrics](https://github.com/cheind/py-motmetrics)；
+* 安装[motmetrics](https://github.com/cheind/py-motmetrics)；
 
 * 将此项目的`motmetrics`中的两个文件复制到已安装的motmetrics文件夹中；
 
 * 将测试文件保存到`sample`文件夹；
 
-* 选择评估类型 `detection`, `tracking`, 和 `fusion`；
+* 选择评估类型`detection`, `tracking`, 和`fusion`；
 
-* 运行 `eval.py`。
+* 运行`eval.py`。
 
 ## 引用
 
-#### 如果您有更多问题，请联系我们 (yuguo@whut.edu.cn & wenliu@whut.edu.cn)。
+#### 如果您有更多问题，请联系我们(yuguo@whut.edu.cn & wenliu@whut.edu.cn)。
