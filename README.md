@@ -24,7 +24,7 @@ FVessel dataset consists of two parts:
 ### 01_Video+AIS
 `01_Video+AIS` contains 26 videos and the corresponding AIS data to evaluate the performance of the data fusion algorithm.
 
-|视频名称 <br>   Video|视频时长 <br> Video Length| 类型 <br> Type| 天气 <br> Weather| 船舶遮挡次数 <br> Times of Occlusions| 船舶总数 <br> Total Number of Vessels| AIS船舶总数 <br> Number of Vessels with AIS|
+|Video|Video Length|Type|Weather|Times of Occlusions|Total Number of Vessels|Number of Vessels with AIS|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 video-01|10m07s|Bridge   |Low-light|2|5|4
 video-02|19m52s|Bridge   |Sunny    |6|7|6
@@ -59,7 +59,7 @@ Each video data contains the following files:
 
   __2022_05_10_19_21_04.csv__
 
-  |序号<br>Number|MMSI|经度<br>Lon|纬度<br>Lat|航速<br>Speed|航向<br>Course|船首向<br>Heading|类型<br>Type|时间戳<br>Timestamp|
+  |Number|MMSI|Lon|Lat|Speed|Course|Heading|Type|Timestamp|
   | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
   0|100000000|114.325327|30.60166 |0  |293.6|511|18|1652181559844
   1|130000000|114.302683|30.58059 |6.8|33.6 |33 |18|1652181659157
@@ -85,7 +85,7 @@ Each video data contains the following files:
   
     __camera_para.txt__
 
-    |经度<br>Lon|纬度<br>Lat|水平朝向<br>Horizontal Orientation|俯仰角<br>Vertical Orientation|相机高度<br>Camera Height|水平视场角<br>Horizontal FoV|垂直视场角<br>Vertical FoV|fx|fy|u0|v0|
+    |Lon|Lat|Horizontal Orientation|Vertical Orientation|Camera Height|Horizontal FoV|Vertical FoV|fx|fy|u0|v0|
     | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
     114.32583|30.60139|7|-1|20| 55 | 30.94 | 2391.26 | 2446.89 | 1305.04 | 855.214 |
     
