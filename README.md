@@ -2,7 +2,7 @@
 English | [简体中文](README_zh-CN.md)
 ---
 
-## 目录 Catalog
+## Catalog
 1. [Introduction](#Introduction)
 2. [Details](#Details)
 3. [Download](#Download)
