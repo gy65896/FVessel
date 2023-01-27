@@ -1,13 +1,13 @@
-## FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion 用于船舶检测、跟踪、数据融合的基准数据集
+## FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
 English | [简体中文](README_zh-CN.md)
 ---
 
 ## 目录 Catalog
-1. [数据集介绍 Dataset Introduction](#Introduction)
-2. [数据集细节 Dataset Details](#Details)
-3. [数据集下载 Dataset Download](#Download)
-4. [评估 Evaluation](#Evaluation)
-5. [引用 Citation](#Citation)
+1. [Introduction](#Introduction)
+2. [Details](#Details)
+3. [Download](#Download)
+4. [Evaluation](#Evaluation)
+5. [Citation](#Citation)
 
 ## Introduction
 FVessel benchmark dataset is used to evaluate the reliability of AIS and video data fusion algorithms, which mainly contains 26 videos and the corresponding AIS data captured by HIKVISION DS-2DC4423IW-D dome camera and Saiyang AIS9000-08 Class-B AIS receiver on the Wuhan Segment of the Yangtze River. Since the Maritime Mobile Service Identity (MMSI) containing in the AIS data reveals the vessel identity, we replaced it with a random number. As shown in Figure 1, these videos were captured under many locations (e.g., bridge region and riverside) and various weather conditions (e.g., sunny, cloudy, and low-light).
