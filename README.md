@@ -1,6 +1,6 @@
 ## FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
 ---
-
+![demo image](resources/mmdet3d_outdoor_demo.gif)
 English | [简体中文](README_zh-CN.md)
 
 ## Catalog
