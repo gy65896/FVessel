@@ -1,6 +1,7 @@
 ## FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
 ---
-![1_4](https://user-images.githubusercontent.com/48637474/220342892-f1bb6721-3ffc-4bb1-857f-e340c8266ded.gif)
+
+
 
 English | [简体中文](README_zh-CN.md)
 
