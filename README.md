@@ -1,6 +1,5 @@
-![video](https://user-images.githubusercontent.com/48637474/220859261-33458b91-2f2b-4d58-8c26-73610c53ca37.gif)
-
 ## FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
+![video](https://user-images.githubusercontent.com/48637474/220859261-33458b91-2f2b-4d58-8c26-73610c53ca37.gif)
 ---
 ## [[Paper](http://arxiv.org/abs/2302.11283)]
 
