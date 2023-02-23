@@ -145,7 +145,7 @@ Extraction code：oinv
 ## Citation
 ```
 Yu Guo, Ryan Wen Liu, Jingxiang Qu, Yuxu Lu, Fenghua Zhu, and Yisheng Lv, “Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways,” arXiv preprint arXiv:2302.11283, 2023.
-https://arxiv.org/abs/2302.11283
+
 ```
 
 #### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
