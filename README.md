@@ -139,6 +139,7 @@ Extraction code：mipc
 
 
 https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-9379-0a03c2418751.mp4
+
 (The blue line is the projection of the AIS data-based trajectory in the image, and the red letter is the corresponding mmsi number.)
 
 
