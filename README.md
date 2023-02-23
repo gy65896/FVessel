@@ -143,5 +143,10 @@ Extraction code：oinv
 * Run `eval.py`.
 
 ## Citation
+```
+A. Bochkovskiy, C.-Y. Wang, and H.-Y. M. Liao, “Yolov4: Optimal speed and accuracy of object detection,” arXiv preprint
+arXiv:2004.10934, 2020
+https://arxiv.org/abs/2302.11283
+'''
 
 #### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
