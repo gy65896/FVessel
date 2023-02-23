@@ -147,6 +147,10 @@ Extraction code：oinv
 
 * Run `02_demo_metric/eval.py`.
 
+## DeepSORVF: Deep Learning-based Simple Online and Real-Time Vessel Data Fusion Method
+
+The following videos show the data fusion results of our proposed DeepSOORVF.
+
 https://user-images.githubusercontent.com/48637474/220344086-5684a8e8-cb73-4786-a8dc-bdc9f68b5a35.mp4
 
 
