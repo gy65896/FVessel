@@ -1,16 +1,13 @@
 ## FVessel: 用于船舶检测、跟踪、数据融合的基准数据集
 
 ---
-[English](README.md) | 简体中文
+### Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways [[Paper](http://arxiv.org/abs/2302.11283)]
 
-## 目录
-1. [数据集介绍](#介绍)
-2. [数据集细节](#细节)
-3. [数据集下载](#下载)
-4. [指标评估](#评估)
-5. [引用](#引用)
+![video](https://user-images.githubusercontent.com/48637474/220859261-33458b91-2f2b-4d58-8c26-73610c53ca37.gif)
 
 ## 介绍
+[English](README.md) | 简体中文
+
 FVessel基准数据集用于评估AIS和视频数据融合算法的可靠性，主要包含海康威视DS-2DC4423IW-D球型摄像机和赛扬AIS9000-08 B类AIS接收机在武汉长江段拍摄的26个视频和相应的AIS数据。为了保护隐私，在我们的数据集中每艘船的 MMSI 已替换为随机数。图1展了FVessel数据集的部分样本。
 
 ![Figure04_FVessel](https://user-images.githubusercontent.com/48637474/210925024-15dcbcbe-717b-47b6-ad4b-377d71141380.jpg)
@@ -126,20 +123,49 @@ video-26|07m26s|江边|晴天|0|5|5
 
 提取码：oinv 
 
+## AIS数据坐标转换
 
+* 将数据复制到本项目的`01_demo_transform/data`路径下.
+
+* 运行`01_demo_transformc/main.py`.
+
+链接：https://pan.baidu.com/s/1VBQc0QVNdOLGkpmqVZKSHg 
+
+提取码：mipc 
+
+#### 请注意: 与 FVessel 数据集中的原始 AIS 数据不同，示例中的 AIS 数据的已经被处理。
+
+https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-9379-0a03c2418751.mp4
+
+(蓝线是基于AIS数据的轨迹在图像中的投影，红色字母是对应的mmsi号。)
 
 ## 指标评估
 
 * 安装[motmetrics](https://github.com/cheind/py-motmetrics)；
 
-* 将此项目的`motmetrics`中的两个文件复制到已安装的motmetrics文件夹中；
+* 将此项目的`02_demo_metric/motmetrics`中的两个文件复制到已安装的motmetrics文件夹中；
 
-* 将测试文件保存到`sample`文件夹；
+* 将测试文件保存到`02_demo_metric/sample`文件夹；
 
 * 选择评估类型`detection`, `tracking`, 和`fusion`；
 
-* 运行`eval.py`。
+* 运行`02_demo_metric/eval.py`。
+
+## DeepSORVF: 基于深度学习的简单在线实时船舶数据融合方法
+
+以下视频展示了我们提出的 DeepSOORV 数据融合结果。
+
+https://user-images.githubusercontent.com/48637474/220344086-5684a8e8-cb73-4786-a8dc-bdc9f68b5a35.mp4
 
 ## 引用
+
+```
+@article{guo2023asynchronous,
+  title={Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways},
+  author={Guo, Yu and Liu, Ryan Wen and Qu, Jingxiang and Lu, Yuxu and Zhu, Fenghua, and Lv, Yisheng},
+  journal={arXiv preprint arXiv:2302.11283},
+  year={2023}
+}
+```
 
 #### 如果您有更多问题，请联系我们(yuguo@whut.edu.cn & wenliu@whut.edu.cn)。
