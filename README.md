@@ -131,6 +131,7 @@ Extraction code：oinv
 * Copy the data into the `01_demo_transform/data` of this project.
 
 * Run `01_demo_transformc/main.py`.
+#### Note that the ais data in the example has been processed differently from the original ais data in the FVessel dataset.
 
 ## Evaluation
 
