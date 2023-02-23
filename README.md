@@ -128,6 +128,10 @@ Extraction code：oinv
 
 ## AIS Data Coordinate Transformation
 
+* Copy the data into the `01_demo_transform/data` of this project.
+
+* Run `01_demo_transformc/main.py`.
+
 ## Evaluation
 
 * Install [motmetrics](https://github.com/cheind/py-motmetrics).
