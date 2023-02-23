@@ -132,13 +132,13 @@ Extraction code：oinv
 
 * Install [motmetrics](https://github.com/cheind/py-motmetrics).
 
-* Copy the two files from the `motmetrics` of this project to the installed motmetrics folder.
+* Copy the two files from the `02_demo_metric/motmetrics` of this project to the installed motmetrics folder.
 
-* Save the test files to the `sample` folder.
+* Save the test files to the `02_demo_metric/sample` folder.
 
 * Choose the type of evaluation `detection`, `tracking`, and `fusion`.
 
-* Run `eval.py`.
+* Run `02_demo_metric/eval.py`.
 
 https://user-images.githubusercontent.com/48637474/220344086-5684a8e8-cb73-4786-a8dc-bdc9f68b5a35.mp4
 
