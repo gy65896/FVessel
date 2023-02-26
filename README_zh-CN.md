@@ -155,7 +155,7 @@ https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-
 
 ## DeepSORVF: 基于深度学习的简单在线实时船舶数据融合方法
 
-以下视频展示了我们提出的 DeepSOORV 数据融合结果。
+以下视频展示了我们提出的 DeepSORVF 数据融合结果。
 
 https://user-images.githubusercontent.com/48637474/220344086-5684a8e8-cb73-4786-a8dc-bdc9f68b5a35.mp4
 
