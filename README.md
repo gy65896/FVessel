@@ -135,7 +135,7 @@ Link：https://pan.baidu.com/s/1VBQc0QVNdOLGkpmqVZKSHg
 
 Extraction code：mipc 
 
-#### Note that the AIS data in the example has been processed differently from the original AIS data in the FVessel dataset.
+#### Note that the AIS data in the example has been processed differently from the AIS data in the FVessel dataset.
 
 
 https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-9379-0a03c2418751.mp4
