@@ -133,7 +133,7 @@ video-26|07m26s|江边|晴天|0|5|5
 
 提取码：mipc 
 
-#### 请注意: 与 FVessel 数据集中的原始 AIS 数据不同，示例中的 AIS 数据的已经被处理。
+#### 请注意: 与 FVessel 数据集中的 AIS 数据不同，示例中的 AIS 数据的已经被处理。
 
 https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-9379-0a03c2418751.mp4
 
