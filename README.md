@@ -159,7 +159,7 @@ https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-
 
 ## DeepSORVF: Deep Learning-based Simple Online and Real-Time Vessel Data Fusion Method
 
-The following videos show the data fusion results of our proposed DeepSOORVF.
+The following videos show the data fusion results of our proposed DeepSORVF.
 
 https://user-images.githubusercontent.com/48637474/220344086-5684a8e8-cb73-4786-a8dc-bdc9f68b5a35.mp4
 
