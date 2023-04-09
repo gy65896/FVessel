@@ -117,11 +117,10 @@ video-26|07m26s|江边|晴天|0|5|5
 `02_Image+xml`包含7625张海事图像以及对应的用于目标检测网络训练的xml文件，该数据集只有一类"vessel"。
 
 ## 下载
-我们只发布来自`01_Video+AIS`的四个视频和AIS数据。如果您需要更多数据集，请联系我们。   
 
-链接：https://pan.baidu.com/s/1yeY1Igund8gjTnqZsyqI_A 
+链接：https://pan.baidu.com/s/19R1qSq0xTBmER8tj9WcRGA 
 
-提取码：oinv 
+提取码：MIPC 
 
 ## AIS数据坐标转换
 
