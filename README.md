@@ -160,6 +160,9 @@ The following videos show the data fusion results of our proposed [DeepSORVF](ht
 
 https://user-images.githubusercontent.com/48637474/220344086-5684a8e8-cb73-4786-a8dc-bdc9f68b5a35.mp4
 
+## Acknowledgements
+
+We deeply thank **Jianlong Su** from the School of Computer and Artificial Intelligence in Wuhan University of TechnologyWuhan University of Technology who performs the data acquisition and algorithm implementation works.
 
 ## Citation
 
