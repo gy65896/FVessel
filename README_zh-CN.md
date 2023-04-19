@@ -1,7 +1,7 @@
 ## FVessel: 用于船舶检测、跟踪、数据融合的基准数据集
 
 ---
->**内河船舶交通监管中基于异步轨迹匹配的多模态海事数据融合 [[论文](http://arxiv.org/abs/2302.11283)]**<br> 郭彧, [刘文](http://mipc.whut.edu.cn/index.html), 瞿晶祥, 朱凤华, 吕宜生 <br> 
+>**内河船舶交通监管中基于异步轨迹匹配的多模态海事数据融合 [[论文](http://arxiv.org/abs/2302.11283)]**<br> 郭彧, [刘文](http://mipc.whut.edu.cn/index.html), 瞿晶祥, 卢煜旭, 朱凤华, 吕宜生 <br> 
 >arXiv preprint arXiv:2302.11283
 
 ![video](https://user-images.githubusercontent.com/48637474/220859261-33458b91-2f2b-4d58-8c26-73610c53ca37.gif)
