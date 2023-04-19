@@ -159,6 +159,10 @@ https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-
 
 https://user-images.githubusercontent.com/48637474/220344086-5684a8e8-cb73-4786-a8dc-bdc9f68b5a35.mp4
 
+## 致谢
+
+非常感谢武汉理工大学计算机与人工智能学院的**苏建龙**进行的数据采集和算法实现工作。
+
 ## 引用
 
 ```
