@@ -162,7 +162,7 @@ https://user-images.githubusercontent.com/48637474/220344086-5684a8e8-cb73-4786-
 
 ## Acknowledgements
 
-We deeply thank **Jianlong Su** from the School of Computer and Artificial Intelligence in Wuhan University of TechnologyWuhan University of Technology who performs the data acquisition and algorithm implementation works.
+We deeply thank **Jianlong Su** from the School of Computer and Artificial Intelligence in Wuhan University of Technology who performs the data acquisition and algorithm implementation works.
 
 ## Citation
 
