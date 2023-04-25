@@ -1,5 +1,5 @@
 ## FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
-[![paper](http://arxiv.org/abs/2302.11283)
+[![paper](http://arxiv.org/abs/2302.11283)]
 ---
 >**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways **<br>  Yu Guo, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html), Jingxiang Qu, Yuxu Lu, Fenghua Zhu, Yisheng Lv <br> 
 >arXiv preprint arXiv:2302.11283
