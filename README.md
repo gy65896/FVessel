@@ -33,11 +33,29 @@ The FVessel dataset consists of two parts:
 ### 01_Video+AIS
 `01_Video+AIS` contains many videos and the corresponding AIS data to evaluate the performance of the data fusion algorithm. Each video data contains the following files:
 
+```
+|-ais
+     |- 2022_05_10_19_21_04.csv
+     |- 2022_05_10_19_21_05.csv
+     |- 2022_05_10_19_21_06.csv
+     └─ ... (ais data)
+|-2022_05_10_19_21_05_19_31_10_b.mp4
+|-camera_para.txt
+|-gt
+     |- Video-02_gt.mp4
+     |- Video-02_gt_detection.txt
+        | - <second>, <0>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>
+     |- Video-02_gt_tracking.txt
+     └─ Video-02_gt_fusion.txt
+```
+
+
 
 * __(a) AIS__
 
+  Each csv file contains the AIS data received within ten minutes, and only the most recent data is kept.
 
-  __2022_05_10_19_21_04.csv__
+  __2022_05_10_19_21_04__
 
   |Number|MMSI|Lon|Lat|Speed|Course|Heading|Type|Timestamp|
   | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -47,12 +65,6 @@ The FVessel dataset consists of two parts:
   3|600000000|114.3156  |30.59773 |7.2|39.6 |511|18|1652181649704
   ...|...|...|... |...|... |...|...|...
 
-  __2022_05_10_19_21_05.csv__   
-  __2022_05_10_19_21_06.csv__   
-  __...__
-  
-  
-    (Each csv file contains the AIS data received within ten minutes, and only the most recent data is kept.)
  * __(b) Video__
 
     __2022_05_10_19_21_05_19_31_10_b.mp4__  
@@ -70,6 +82,7 @@ The FVessel dataset consists of two parts:
     114.32583|30.60139|7|-1|20| 55 | 30.94 | 2391.26 | 2446.89 | 1305.04 | 855.214 |
     
     fx, fy, u0, and v0 are parameters in the internal matrix of the camera.
+    
 * __(d) GT (Ground Truth: adopt the multi-object tracking MOT format)__
     
     __Video-02_gt.mp4__
