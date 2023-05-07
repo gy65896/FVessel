@@ -19,18 +19,7 @@
 ## News 🚀
 
 * **2023.05.07**: 9 fusion data (Video-27~Video-35) and 3728 images for detection are captured, and new data will be made public soon.
-* **2023.04.29**: We collected the data on the Wuhan Segment of the Yangtze River.
-* **2023.03.09**: We collected the data on the Wuhan Segment of the Yangtze River.
-* **2023.01.20**: We made the FVessel_V1.0 dataset public, containing 26 fusion data and 7625 images for detection.
-* **2022.11.20**: We collected the data on the Wuhan Segment of the Yangtze River.
-* **2022.11.10**: We collected the data on the Wuhan Segment of the Yangtze River.
-* **2022.10.17**: We collected the data on the Wuhan Segment of the Yangtze River.
-* **2022.09.29**: We collected the data on the Wuhan Segment of the Yangtze River.
-* **2022.09.24**: We collected the data on the Wuhan Segment of the Yangtze River.
-* **2022.06.04**: We collected the data on the Wuhan Segment of the Yangtze River.
-* **2022.05.10**: We collected the data on the Wuhan Segment of the Yangtze River.
-* **2022.05.03**: We collected the data on the Wuhan Segment of the Yangtze River.
-
+* **2023.01.12**: We made the FVessel_V1.0 dataset public, containing 26 fusion data and 7625 images for detection.
 ## Examples
 
 ![Figure04_FVessel](https://user-images.githubusercontent.com/48637474/210925024-15dcbcbe-717b-47b6-ad4b-377d71141380.jpg)
