@@ -112,7 +112,8 @@ The FVessel dataset consists of two parts:
     <second>, <mmsi>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>
     ```
 
-* __FVessel_V1.0-01_Video+AIS__
+* __V1.0 (26 videos)__
+
 |Video|Video Length|Type|Weather|Times of Occlusions|Total Number of Vessels|Number of Vessels with AIS|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 01|10m07s|Bridge   |Low-light|2|5|4
@@ -144,11 +145,29 @@ The FVessel dataset consists of two parts:
 
 ### 02_Image+xml
 
-`02_Image+xml` contains 7625 maritime images and the corresponding xml files for target detection network training. This dataset has only one class `vessel`.
+`02_Image+xml` contains many maritime images and the corresponding xml files for target detection network training. This dataset has only one class `vessel`.
+
+```
+|-JPEGImages
+     |-000001.png
+     |-000002.png
+     |-000003.png
+     └─... (image data)
+|-Annotations
+     |-000001.xml
+        |-<vessel>, <x1>, <y1>, <x2>, <y2>
+        └─...
+     |-000002.xml
+     |-000003.xml
+     └─... (xml data)
+└─-ImageSets
+```
+
+* __V1.0 (7625 images)__
 
 ## Download    
 
-Link：https://pan.baidu.com/s/19R1qSq0xTBmER8tj9WcRGA
+FVessel_V1.0：https://pan.baidu.com/s/19R1qSq0xTBmER8tj9WcRGA
 
 Extraction code：MIPC
 
