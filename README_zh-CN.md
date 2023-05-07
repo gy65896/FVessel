@@ -174,7 +174,6 @@ FVessel数据集包含两部分:
 
 FVessel_V1.0：[[MIPC](https://pan.baidu.com/s/19R1qSq0xTBmER8tj9WcRGA)] 
 
-
 ## AIS数据坐标转换
 
 * 将数据复制到本项目的`01_demo_transform/data`路径下.
@@ -184,8 +183,6 @@ FVessel_V1.0：[[MIPC](https://pan.baidu.com/s/19R1qSq0xTBmER8tj9WcRGA)]
 #### 坐标转换示例
 
 案例：[[mipc](https://pan.baidu.com/s/1VBQc0QVNdOLGkpmqVZKSHg)]
-
-提取码： 
 
 #### 请注意: 与 FVessel 数据集中的 AIS 数据不同，示例中的 AIS 数据的已经被处理。
 
