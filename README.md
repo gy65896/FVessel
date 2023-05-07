@@ -2,7 +2,9 @@
 
 # FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
 <div align="center">
+<div style="font-size:12px">
 <b>FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion<b>
+</div>
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2302.11283)
 [![Code](https://img.shields.io/badge/DeepSORVF-Code-orange.svg)](https://github.com/gy65896/DeepSORVF)
