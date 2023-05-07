@@ -1,5 +1,5 @@
 <div align="center">
-    <font size="5">FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion</font>
+    FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
 
 </div>
   
