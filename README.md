@@ -13,7 +13,7 @@
 
 ## News
 
-* 2023.05.07: 9 fusion data (Video-27~Video-35) and 3728 images for detection are captured, and new data will be made public soon.
+* **2023.05.07**: 9 fusion data (Video-27~Video-35) and 3728 images for detection are captured, and new data will be made public soon.
 
 ## Examples
 
