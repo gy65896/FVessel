@@ -1,5 +1,5 @@
 
-### &nbsp&nbsp&nbsp&nbsp **FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion**
+### FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
 
 <div align="center">
 
