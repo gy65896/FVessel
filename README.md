@@ -16,7 +16,7 @@
 > **Introduction:** *The FVessel benchmark dataset is used to evaluate the reliability of AIS and video data fusion algorithms, which mainly contains 26 videos and the corresponding AIS data captured by the HIKVISION DS-2DC4423IW-D dome camera and Saiyang AIS9000-08 Class-B AIS receiver on the Wuhan Segment of the Yangtze River. To protect privacy, the MMSI for each vessel has been replaced with a random number in our dataset. As shown in Figure 1, these videos were captured under many locations (e.g., bridge region and riverside) and various weather conditions (e.g., sunny, cloudy, and low-light).*
 <hr />
 
-## News
+## News 🚀
 
 * **2023.05.07**: 9 fusion data (Video-27~Video-35) and 3728 images for detection are captured, and new data will be made public soon.
 * **2023.04.29**: We collected the data on the Wuhan Segment of the Yangtze River.
