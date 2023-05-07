@@ -36,17 +36,24 @@ The FVessel dataset consists of two parts:
 ```
 |-ais
      |- 2022_05_10_19_21_04.csv
+        |- [Number, MMSI, Lon, Lat, Speed, Course, Heading, Type, Timestamp]
      |- 2022_05_10_19_21_05.csv
      |- 2022_05_10_19_21_06.csv
      └─ ... (ais data)
 |-2022_05_10_19_21_05_19_31_10_b.mp4
 |-camera_para.txt
+   |- [Lon, Lat, Horizontal Orientation, Vertical Orientation, Camera Height, Horizontal FoV, Vertical FoV, fx, fy, u0, v0]
 |-gt
      |- Video-02_gt.mp4
      |- Video-02_gt_detection.txt
         | - <second>, <0>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>
+        └─ ...
      |- Video-02_gt_tracking.txt
+        | - <second>, <id>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>
+        └─ ...
      └─ Video-02_gt_fusion.txt
+        | - <second>, <mmsi>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <x>, <y>, <z>
+        └─ ...
 ```
 
 
