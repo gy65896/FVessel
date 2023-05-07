@@ -1,7 +1,12 @@
-# FVessel: 用于船舶检测、跟踪、数据融合的基准数据集
+# <p align=center> FVessel: 用于船舶检测、跟踪、数据融合的基准数据集</p>
+
+<div align="center">
+
 [![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2302.11283)
 [![Code](https://img.shields.io/badge/DeepSORVF-Code-orange.svg)](https://github.com/gy65896/DeepSORVF)
 [![English](https://img.shields.io/badge/英文-English-green.svg)](README.md)
+
+</div>
 
 ---
 
@@ -9,6 +14,9 @@
 >arXiv preprint arXiv:2302.11283
 
 > **简介：** *FVessel基准数据集用于评估AIS和视频数据融合算法的可靠性，主要包含海康威视DS-2DC4423IW-D球型摄像机和赛扬AIS9000-08 B类AIS接收机在武汉长江段拍摄的26个视频和相应的AIS数据。为了保护隐私，在我们的数据集中每艘船的 MMSI 已替换为随机数。图1展了FVessel数据集的部分样本。*
+
+## 新闻
+* **2023.05.07**: 9个融合数据(Video-27~Video-35)和3728张用于检测的图片被采集，新的数据将在不久后公开。
 
 ## 样本
 ![Figure04_FVessel](https://user-images.githubusercontent.com/48637474/210925024-15dcbcbe-717b-47b6-ad4b-377d71141380.jpg)
