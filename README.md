@@ -1,6 +1,4 @@
-<div align="center">
-<b>FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion</b>
-</div>
+<center>FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion</center>
   
 # <center>FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion</center>
 [![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2302.11283)
