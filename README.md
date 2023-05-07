@@ -1,4 +1,4 @@
-# <p align=center> :fire: `FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion`</p>
+# <p align=center> `FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion`</p>
 
 # FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
 
