@@ -37,6 +37,7 @@ The FVessel dataset consists of two parts:
 |-ais
      |- 2022_05_10_19_21_04.csv
         |- [Number, MMSI, Lon, Lat, Speed, Course, Heading, Type, Timestamp]
+        └─ ...
      |- 2022_05_10_19_21_05.csv
      |- 2022_05_10_19_21_06.csv
      └─ ... (ais data)
