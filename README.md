@@ -2,11 +2,6 @@
     <b><font size="5">FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion</font></b>
       </a>
     </sup>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <b><font size="5">OpenMMLab platform</font></b>
-    <sup>
-      <a href="https://platform.openmmlab.com">
-        <i><font size="4">TRY IT OUT</font></i>
       </a>
     </sup>
   </div>
