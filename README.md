@@ -21,9 +21,9 @@
   </div>
   <div>&nbsp;</div>
 
-[![PyPI](https://img.shields.io/pypi/v/mmdet)](https://pypi.org/project/mmdet)
-[![docs](https://img.shields.io/badge/docs-latest-blue)](https://mmdetection.readthedocs.io/en/latest/)
-[![badge](https://github.com/open-mmlab/mmdetection/workflows/build/badge.svg)](https://github.com/open-mmlab/mmdetection/actions)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2302.11283)
+[![Code](https://img.shields.io/badge/DeepSORVF-Code-orange.svg)](https://github.com/gy65896/DeepSORVF)
+[![Chinese](https://img.shields.io/badge/简体中文-Chinese-green.svg)](README_zh-CN.md)
 
 
 [📘Documentation](https://mmdetection.readthedocs.io/en/latest/) |
@@ -34,9 +34,7 @@
 [🤔Reporting Issues](https://github.com/open-mmlab/mmdetection/issues/new/choose)
 
 </div>
-[![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2302.11283)
-[![Code](https://img.shields.io/badge/DeepSORVF-Code-orange.svg)](https://github.com/gy65896/DeepSORVF)
-[![Chinese](https://img.shields.io/badge/简体中文-Chinese-green.svg)](README_zh-CN.md)
+
 
 ---
 
