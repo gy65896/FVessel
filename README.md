@@ -113,7 +113,6 @@ The FVessel dataset consists of two parts:
     ```
 
 * __FVessel_V1.0-01_Video+AIS__
-
 |Video|Video Length|Type|Weather|Times of Occlusions|Total Number of Vessels|Number of Vessels with AIS|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 01|10m07s|Bridge   |Low-light|2|5|4
