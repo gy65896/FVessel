@@ -1,8 +1,5 @@
 <div align="center">
     <b><font size="5">FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion</font></b>
-    <sup>
-      <a href="https://openmmlab.com">
-        <i><font size="4">HOT</font></i>
       </a>
     </sup>
     &nbsp;&nbsp;&nbsp;&nbsp;
