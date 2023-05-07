@@ -2,7 +2,7 @@
 
 # FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion
 <div align="center">
-<div style="font-size:12px">
+<div style="font-size:20px">
 <b>FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion<b>
 </div>
 
