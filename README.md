@@ -225,3 +225,9 @@ We will capture more data of different scenes to expand the dataset.
 ```
 
 #### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
+
+</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gy5896/count.svg" />
+</p>
