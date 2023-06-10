@@ -1,4 +1,4 @@
-# <p align=center> [TITS 2023] FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion</p>
+# <p align=center> [IEEE TITS 2023] FVessel: Benchmark Dataset for Vessel Detection, Tracking, and Data Fusion</p>
 
 <div align="center">
 
