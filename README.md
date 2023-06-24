@@ -183,7 +183,9 @@ Example: [[mipc](https://pan.baidu.com/s/1VBQc0QVNdOLGkpmqVZKSHg)]
 #### Note that the AIS data in the example has been processed differently from the AIS data in the FVessel dataset.
 
 
-https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-9379-0a03c2418751.mp4
+https://github.com/gy65896/FVessel/assets/48637474/78f2409b-7148-46ec-9bff-bd796c73cb9a
+
+
 
 (The blue line is the projection of the AIS data-based trajectory in the image, and the red letter is the corresponding mmsi number.)
 
