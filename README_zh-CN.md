@@ -206,7 +206,8 @@ https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-
 
 以下视频展示了我们提出的 DeepSORVF 数据融合结果。
 
-https://user-images.githubusercontent.com/48637474/220344086-5684a8e8-cb73-4786-a8dc-bdc9f68b5a35.mp4
+https://github.com/gy65896/FVessel/assets/48637474/8fa420ff-9621-4b88-8b2a-59fc5edc0571
+
 
 ## 致谢
 
