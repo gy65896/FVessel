@@ -224,7 +224,7 @@ https://github.com/gy65896/FVessel/assets/48637474/8fa420ff-9621-4b88-8b2a-59fc5
 @article{guo2023asynchronous,
   title={Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways},
   author={Guo, Yu and Liu, Ryan Wen and Qu, Jingxiang and Lu, Yuxu and Zhu, Fenghua, and Lv, Yisheng},
-  journal={arXiv preprint arXiv:2302.11283},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
   year={2023}
 }
 ```
