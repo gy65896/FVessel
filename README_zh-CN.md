@@ -186,7 +186,8 @@ FVessel_V1.0：[[MIPC](https://pan.baidu.com/s/1-VNeZvWqYh7ESLXQxreCDg)]
 
 #### 请注意: 与 FVessel 数据集中的 AIS 数据不同，示例中的 AIS 数据的已经被处理。
 
-https://user-images.githubusercontent.com/48637474/220854656-97ddb185-e33c-44d6-9379-0a03c2418751.mp4
+https://github.com/gy65896/FVessel/assets/48637474/78f2409b-7148-46ec-9bff-bd796c73cb9a
+
 
 (蓝线是基于AIS数据的轨迹在图像中的投影，红色字母是对应的mmsi号。)
 
