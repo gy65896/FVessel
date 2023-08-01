@@ -18,9 +18,9 @@
 <hr />
 
 ## News 🚀
-
-* **2023.06.08**: "Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways" has been accept by IEEE Transactions on Intelligent Transportation Systems.
-* **2023.05.07**: 9 fusion data (Video-27~Video-35) and 3728 images for detection are captured, and new data will be made public soon.
+* **2023.08.01**: 9 fusion data (Video-27~Video-35) have marked. When requesting the FVessel2.0, please contact us using your institutional or school email address exclusively for research purposes.
+* **2023.06.08**: "Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways" has been accepted by IEEE Transactions on Intelligent Transportation Systems.
+* **2023.05.07**: 9 fusion data (Video-27~Video-35) and 3728 images for detection are captured.
 * **2023.01.12**: We made the FVessel_V1.0 dataset public, containing 26 fusion data and 7625 images for detection.
 ## Examples
 
@@ -145,6 +145,9 @@ The FVessel dataset consists of two parts:
   25|24m05s|Riverside|Sunny    |4|8|8
   26|07m26s|Riverside|Sunny    |0|5|5
 
+* __V2.0 (9 videos)__
+
+
 ### 02_Image+xml
 
 `02_Image+xml` contains many maritime images and the corresponding xml files for target detection network training. This dataset has only one class `vessel`.
@@ -170,6 +173,7 @@ The FVessel dataset consists of two parts:
 ## Download
 
 FVessel_V1.0: [[MIPC](https://pan.baidu.com/s/1-VNeZvWqYh7ESLXQxreCDg)]
+FVessel_V2.0: Please contact us.
 
 ## AIS Data Coordinate Transformation
 
