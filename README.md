@@ -7,9 +7,8 @@
 [![Code](https://img.shields.io/badge/DeepSORVF-Code-orange.svg)](https://github.com/gy65896/DeepSORVF)
 [![Chinese](https://img.shields.io/badge/简体中文-Chinese-green.svg)](README_zh-CN.md)
 
-[![点击次数](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgy65896%2FFVessel&count_bg=%23BA5A2A&title_bg=%23555555&icon=&icon_color= %23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
+[![点击次数](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgy65896%2FFVessel&count_bg=%23BA5A2A&title_bg=%23555555&icon=&icon_color= %23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
