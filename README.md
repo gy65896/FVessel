@@ -19,6 +19,7 @@
 <hr />
 
 ## News 🚀
+* **2024.04.03**: FVessel dataset is included in the [CVonline: Image Databases](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm) of the University of Edinburgh.
 * **2023.08.01**: 9 fusion data (Video-27~Video-35) have marked. When requesting the FVessel2.0, please contact us using your institutional or school email address exclusively for research purposes.
 * **2023.06.08**: "Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways" has been accepted by IEEE Transactions on Intelligent Transportation Systems.
 * **2023.05.07**: 9 fusion data (Video-27~Video-35) and 3728 images for detection are captured.
