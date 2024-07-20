@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/PDF-Paper-blue.svg)](https://ieeexplore.ieee.org/abstract/document/10159572)
+[![Paper](https://img.shields.io/badge/PDF-Paper-red.svg)](https://ieeexplore.ieee.org/abstract/document/10159572)
 [![Web](https://img.shields.io/badge/OneRestore-Web-blue.svg)](https://gy65896.github.io/projects/TITS2023_DeepSORVF/index.html)
 [![Code](https://img.shields.io/badge/DeepSORVF-Code-orange.svg)](https://github.com/gy65896/DeepSORVF)
 [![Chinese](https://img.shields.io/badge/简体中文-Chinese-green.svg)](README_zh-CN.md)
