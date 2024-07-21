@@ -12,18 +12,21 @@
 
 ---
 
->**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways** <br>  [Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN), [Ryan Wen Liu*](http://mipc.whut.edu.cn/index.html), [Jingxiang Qu](https://scholar.google.com/citations?user=9zK-zGoAAAAJ&hl=zh-CN), [Yuxu Lu](https://scholar.google.com/citations?user=XXge2_0AAAAJ&hl=zh-CN), Fenghua Zhu*, Yisheng Lv (* indicates corresponding author)<br> 
+>**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways** <br>  [Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN), [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html)<sup>* </sup>, [Jingxiang Qu](https://scholar.google.com/citations?user=9zK-zGoAAAAJ&hl=zh-CN), [Yuxu Lu](https://scholar.google.com/citations?user=XXge2_0AAAAJ&hl=zh-CN), Fenghua Zhu*, Yisheng Lv
+>(* Corresponding Author)<br> 
 >IEEE Transactions on Intelligent Transportation Systems
 
 > **Introduction:** *The FVessel benchmark dataset is used to evaluate the reliability of AIS and video data fusion algorithms, which mainly contains 26 videos and the corresponding AIS data captured by the HIKVISION DS-2DC4423IW-D dome camera and Saiyang AIS9000-08 Class-B AIS receiver on the Wuhan Segment of the Yangtze River. To protect privacy, the MMSI for each vessel has been replaced with a random number in our dataset. As shown in Figure 1, these videos were captured under many locations (e.g., bridge region and riverside) and various weather conditions (e.g., sunny, cloudy, and low-light).*
 <hr />
 
 ## News 🚀
+* **2024.07.20**: [New Website](https://gy65896.github.io/projects/TITS2023_DeepSORVF/index.html) is created.
 * **2024.04.03**: FVessel dataset is included in the [CVonline: Image Databases](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm) at the University of Edinburgh.
 * **2023.08.01**: 9 fusion data (Video-27~Video-35) have marked. When requesting the FVessel2.0, please contact us using your institutional or school email address exclusively for research purposes.
 * **2023.06.08**: "Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways" has been accepted by IEEE Transactions on Intelligent Transportation Systems.
 * **2023.05.07**: 9 fusion data (Video-27~Video-35) and 3728 images for detection are captured.
 * **2023.01.12**: We made the FVessel_V1.0 dataset public, containing 26 fusion data and 7625 images for detection.
+
 ## Examples
 
 ![Figure04_FVessel](https://user-images.githubusercontent.com/48637474/210925024-15dcbcbe-717b-47b6-ad4b-377d71141380.jpg)
@@ -237,14 +240,16 @@ We will capture more data of different scenes to expand the dataset.
 
 ```
 @article{guo2023asynchronous,
-  title={Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways},
-  author={Guo, Yu and Liu, Ryan Wen and Qu, Jingxiang and Lu, Yuxu and Zhu, Fenghua, and Lv, Yisheng},
+  title={Asynchronous trajectory matching-based multimodal maritime data fusion for vessel traffic surveillance in inland waterways},
+  author={Guo, Yu and Liu, Ryan Wen and Qu, Jingxiang and Lu, Yuxu and Zhu, Fenghua and Lv, Yisheng},
   journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={24},
+  number={11},
+  pages={12779--12792},
   year={2023}
-}
 ```
 
-#### If you have any questions, please get in touch with me (yuguo@whut.edu.cn & wenliu@whut.edu.cn).
+#### If you have any questions, please get in touch with me (guoyu65896@gmail.com).
 
 </div>
 <p align="center"> 
