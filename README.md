@@ -179,8 +179,6 @@ The FVessel dataset consists of two parts:
 
 ## Download
 
-**FVessel_V** 
-
 |Name|***Huggingface***|
 | :-: | :-: |
 |link|[https://huggingface.co/datasets/gy65896/FVessel](https://huggingface.co/datasets/gy65896/FVessel)|
